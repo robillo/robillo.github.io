@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "robillo": [
+        {
+          "email_id": "robinkamboj975@gmail.com",
+          "password": "robillo1!",
+          "rush_count": "9",
+          "rushes": [
+            {
+              "name": "harry_potter",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "steve_jobs",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "wings_of_fire",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "the_immitation_game",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "the_time_machine",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "goblet_of_fire",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "green_goblin",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "newton",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "my_experiments_with_truth",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "monk_and_safari",
+              "cover_url": "http://www.abc.com/def.png"
+            }
+          ]
+        }
+      ],
+      "lawrence": [
+        {
+          "email_id": "lawencekamboj@gmail.com",
+          "password": "lawrence1!",
+          "rush_count": "9",
+          "rushes": [
+            {
+              "name": "harry_potter",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "steve_jobs",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "wings_of_fire",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "the_immitation_game",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "the_time_machine",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "goblet_of_fire",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "green_goblin",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "newton",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "my_experiments_with_truth",
+              "cover_url": "http://www.abc.com/def.png"
+            },
+            {
+              "name": "monk_and_safari",
+              "cover_url": "http://www.abc.com/def.png"
+            }
+          ]
+        }
+      ]
+    }
+  ] ,
+"books": [
+    {
+      "featured": [
+        "harry_potter",
+        "steve_jobs",
+        "deathly_hallows",
+        "wings_of_fire"
+      ],
+      "collections": [
+        {
+          "best_of_2016": [
+            "harry_potter",
+            "steve_jobs",
+            "deathly_hallows"
+          ],
+          "kids_books": [
+            "deathly_hallows",
+            "tom_n_jerry",
+            "popeye"
+          ]
+        }
+      ],
+      "genre": [
+        {
+          "horror": [
+            "goosebumps",
+            "scary_tale"
+          ],
+          "fiction": [
+            "harry_potter",
+            "deathly_hallows"
+          ],
+          "non-fiction": [
+            "steve_jobs",
+            "wings_of_fire"
+          ]
+        }
+      ],
+      "all_books": [
+        {
+          "harry_potter": {
+            "base_details": {
+              "name": "Harry Potter",
+              "cover_url": "http://www.abc.com/def.png",
+              "author": "J K Rowling"
+            },
+            "book_download_link": "http://www.abc.com/def.png",
+            "ratings": [
+              {
+                "email_id": "robinkamboj975@gmail.com",
+                "username": "robillo",
+                "timestamp": "123456",
+                "rating": "4.5",
+                "review": "Very Nice Book"
+              },
+              {
+                "email_id": "lawrencekamboj@gmail.com",
+                "username": "lawrence",
+                "timestamp": "123456",
+                "rating": "4.5",
+                "review": "Nice Book"
+              }
+            ]
+          },
+          "steve_jobs": {
+            "base_details": {
+              "name": "Harry Potter",
+              "cover_url": "http://www.abc.com/def.png",
+              "author": "J K Rowling"
+            },
+            "book_download_link": "http://www.abc.com/def.png",
+            "ratings": [
+              {
+                "email_id": "robinkamboj975@gmail.com",
+                "username": "robillo",
+                "timestamp": "123456",
+                "rating": "4.5",
+                "review": "Very Nice Book"
+              },
+              {
+                "email_id": "lawrencekamboj@gmail.com",
+                "username": "lawrence",
+                "timestamp": "123456",
+                "rating": "4.5",
+                "review": "Nice Book"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
